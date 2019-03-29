@@ -62,7 +62,7 @@ int main(int argc, const char* argv[])
 {
 	su_platform_init();
 
-	printf("     start media service module OK\n");
+	printf("         start media service module OK\n");
 
 	if (argc == 1)
 		echo_relay();
